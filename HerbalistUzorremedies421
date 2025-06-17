@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Herbalist Uzor Remedies</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      margin: 0;
+      padding: 20px;
+    }
+    header {
+      background-color: #007f5f;
+      padding: 20px;
+      text-align: center;
+      color: white;
+    }
+    section {
+      margin-top: 20px;
+    }
+    h2 {
+      color: #007f5f;
+    }
+    .service {
+      padding: 10px 0;
+      border-bottom: 1px solid #ccc;
+    }
+    footer {
+      text-align: center;
+      margin-top: 40px;
+      color: #888;
+    }
+    .whatsapp-button {
+      display: inline-block;
+      background-color: #25D366;
+      color: white;
+      padding: 10px 15px;
+      border-radius: 5px;
+      text-decoration: none;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Herbalist Uzor Remedies</h1>
+    <p>Natural herbal medicine to cure all kinds of diseases</p>
+  </header>
+  <section>
+    <h2>Our Services</h2>
+    <div class="service">Diabetes - $100</div>
+    <div class="service">Cancer - $150</div>
+    <div class="service">Typhoid & Malaria Combo Treatment - $165</div>
+    <div class="service">Fibroid Shrinking Mixture - $130</div>
+    <div class="service">Brain Bleed - $100</div>
+    <div class="service">Massage (for other illnesses) - Contact for Price</div>
+    <a class="whatsapp-button" href="https://wa.me/14382488092">Chat on WhatsApp</a>
+  </section>
+  <footer>
+    <p>&copy; 2025 Herbalist Uzor Remedies. All rights reserved.</p>
+  </footer>
+</body>
+</html>
